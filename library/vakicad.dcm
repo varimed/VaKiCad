@@ -4,4 +4,10 @@ $CMP MCP73213
 F https://www.tme.eu/Document/d1971a02df1f265540d0bbf9f9ca164e/MCP73213-A6SIMF.pdf
 $ENDCMP
 #
+$CMP USB2512B
+D USB 2.0 Hi-Speed Hub Controller
+K USB2.0 Hi-Speed-USB-Hub Hub-Controller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
+$ENDCMP
+#
 #End Doc Library
